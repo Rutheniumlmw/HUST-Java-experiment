@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4213cc7e-886d-4d43-8cf7-3b6d0767e64d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YDYqyNZghUwgeTFTl7oiXVcjAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19425288" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hust.cs.javacourse.search.index.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestSearchIndex">
+    <configuration name="Posting" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.cs.javacourse.search.index.impl.Posting" />
+      <module name="SearchEngineForStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.cs.javacourse.search.index.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuildIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.cs.javacourse.search.run.TestBuildIndex" />
+      <module name="SearchEngineForStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.cs.javacourse.search.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearchIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.cs.javacourse.search.run.TestSearchIndex" />
+      <module name="SearchEngineForStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.cs.javacourse.search.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSearchIndex" />
+        <item itemvalue="Application.TestBuildIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4213cc7e-886d-4d43-8cf7-3b6d0767e64d" name="Default Changelist" comment="" />
+      <created>1582478826204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582478826204</updated>
+      <workItem from="1582478829635" duration="2317000" />
+      <workItem from="1582540609178" duration="21794000" />
+      <workItem from="1647955392174" duration="1320000" />
+      <workItem from="1648033760390" duration="7267000" />
+      <workItem from="1648127863780" duration="2476000" />
+      <workItem from="1648137216496" duration="249000" />
+      <workItem from="1648542674414" duration="17000" />
+      <workItem from="1648542707318" duration="898000" />
+      <workItem from="1648543626478" duration="2260000" />
+      <workItem from="1648550131217" duration="11513000" />
+      <workItem from="1648609271575" duration="902000" />
+      <workItem from="1648642776615" duration="681000" />
+      <workItem from="1649241751475" duration="7615000" />
+      <workItem from="1649250833746" duration="880000" />
+      <workItem from="1649258900426" duration="607000" />
+      <workItem from="1649759470040" duration="11744000" />
+      <workItem from="1649848270200" duration="454000" />
+      <workItem from="1649945191296" duration="261000" />
+      <workItem from="1649945871502" duration="153000" />
+      <workItem from="1650017932971" duration="7000" />
+      <workItem from="1650097388820" duration="196000" />
+      <workItem from="1650195515500" duration="8000" />
+      <workItem from="1650369758515" duration="4804000" />
+      <workItem from="1650628655246" duration="109000" />
+      <workItem from="1650968734645" duration="8316000" />
+      <workItem from="1650982935220" duration="814000" />
+      <workItem from="1651058698287" duration="18000" />
+      <workItem from="1652667598614" duration="109000" />
+      <workItem from="1652753481487" duration="3703000" />
+      <workItem from="1652786597411" duration="6532000" />
+      <workItem from="1652841072816" duration="4689000" />
+      <workItem from="1652855813042" duration="4503000" />
+      <workItem from="1652862277803" duration="5365000" />
+      <workItem from="1652885873108" duration="4686000" />
+      <workItem from="1653053991949" duration="4000" />
+      <workItem from="1653121347537" duration="831000" />
+      <workItem from="1653362246724" duration="651000" />
+      <workItem from="1653900710049" duration="603000" />
+      <workItem from="1653909381329" duration="851000" />
+      <workItem from="1653910257571" duration="4512000" />
+      <workItem from="1662125170942" duration="1000" />
+      <workItem from="1667798452674" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
